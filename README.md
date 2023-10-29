@@ -1,5 +1,3 @@
-
-
 Hi, My name is Daniel and I am Backend Developer
 - 🔭 I'm a student of Data Scietist in Intituto Politécnico Nacional 
 - 🧩I am also interested in mathematics
