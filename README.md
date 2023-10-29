@@ -1,10 +1,10 @@
-Hi, My name is Daniel and I am Backend Developer
-- 🔭 I'm a student of Data Scietist in Intituto Politécnico Nacional 
-- 🧩I am also interested in mathematics
-=============================================================================================================================
-
+# Hi, My name is Daniel and I am Backend Developer
+## About me
+- 🔭 I'm a student of Data Scietist in Intituto Politécnico Nacional .
+- 🧩 I'm also interested in mathematics.
+- ❤️ I like to write poems.
+---
 ### 🎯Some technologies I use
-
 ![image](https://user-images.githubusercontent.com/66887013/215653153-218718e1-b618-4aaa-a896-952a00cedae0.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653202-9f42c683-af90-40cb-9258-2a4d92de1d98.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653245-e731b177-b44f-4e71-aa6c-d560a93a9db1.png)
